@@ -1,5 +1,7 @@
 # VueJS-mentoring-program
 
+Repository for EPAM Vue.js Mentoring Program [2023 Q1 PL]
+
 ## Project setup
 
 ```
